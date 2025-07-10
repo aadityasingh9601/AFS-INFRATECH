@@ -120,7 +120,7 @@ const Gallery = () => {
         }
         
         .animate-slide {
-          animation: slide 10s linear infinite;
+          animation: slide 12s linear infinite;
         }
         
         .animate-slide:hover {
